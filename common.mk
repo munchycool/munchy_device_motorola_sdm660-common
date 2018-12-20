@@ -160,7 +160,8 @@ PRODUCT_PACKAGES += \
 
 # IMS
 PRODUCT_PACKAGES += \
-    ims-ext-common
+    ims-ext-common \
+    qti-telephony-common 
 
 # Init
 PRODUCT_PACKAGES += \
